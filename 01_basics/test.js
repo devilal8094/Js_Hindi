@@ -41,5 +41,3 @@ console.log(1 + 2 + "3")
 // console.log(undefined == 0);
 // console.log(undefined > 0);
 // console.log(undefined < 0);
-
-
